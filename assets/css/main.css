@@ -39,3 +39,52 @@ a{
 
 /*Section*/
 
+section{
+	background-color: #7B7474;
+	height: 600px;
+}
+
+/*#contenido{
+	flex-direction: column;
+}
+*/
+#contenido.texto{
+	width: 70px;
+	margin-right: auto;
+	margin-left: 20px;
+}
+.texto{
+color: whitesmoke;
+margin-left: 50px;
+margin-top: 80px;
+line-height: 30px;
+margin-right: 30px;
+}
+h2{
+	font-size: 40px;
+	line-height: 50px;
+}
+#contenido.formulario{
+	width: 200px;
+	margin-right: auto;
+	margin-left: 20px;
+}
+
+.formulario {
+	width: 700px;
+	height: 400px;
+	background: #4A4646;
+	margin-top: 80px;
+	margin-right: 80px;
+	padding: 20px;
+}
+
+h3{
+	color: whitesmoke;
+	text-align: center;
+	font-size: 25px;
+	margin-bottom: 20px;
+}
+input{
+	width: 200px;
+}
