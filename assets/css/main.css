@@ -24,6 +24,7 @@
 h1{
 	font-weight: 700;
 	font-size: 28px;
+	color: #4A4646;
 
 }
 
@@ -72,7 +73,7 @@ h2{
 
 .formulario {
 	width: 700px;
-	height: 400px;
+	height: 213px;
 	background: #4A4646;
 	margin-top: 80px;
 	margin-right: 80px;
@@ -85,6 +86,22 @@ h3{
 	font-size: 25px;
 	margin-bottom: 20px;
 }
+
 input{
-	width: 200px;
+	width: 243px;
+	height: 25px;
+	margin: 5px;
+	font-size: 14px;
 }
+button{
+	border-radius: 5px;
+	width: 245px;
+	height: 40px;
+	margin-top: 20px;
+	background-color: #D55050;
+	color: whitesmoke;
+	font-size: 15px;
+	margin-left: 5px;
+	text-align: center;
+}
+
