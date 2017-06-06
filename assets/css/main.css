@@ -1,1 +1,41 @@
-main.css
+*{
+	font-family: 'Domine', serif;
+	text-decoration: none;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.flex-container{
+	display : flex;
+}
+
+/*Header*/
+#logomenu.flex-container{
+	justify-content: flex-end;
+	align-items: center;
+}
+
+#logomenu .logo{
+	width: 70px;
+	margin-right: auto;
+	margin-left: 20px;
+}
+h1{
+	font-weight: 700;
+	font-size: 28px;
+
+}
+
+li{
+	display: inline-block;
+	padding: 20px;
+	text-decoration: none;
+	
+}
+a{
+	color: grey;
+}
+
+/*Section*/
+
