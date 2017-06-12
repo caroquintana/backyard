@@ -52,4 +52,7 @@
 		align-items: center;
 		margin-left: 66px;
 	}
+	h1{
+		font-size: 19px;
+	}
 }
